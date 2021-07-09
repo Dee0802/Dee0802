@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on python
-- 🌱 I’m currently learning Machine learning
+- 🌱 I’m currently learning Machine learning and openCV
 - 😄 Pronouns: She/her
 
