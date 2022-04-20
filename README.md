@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 **Dee0802/Dee0802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
->I'm a CSE undergrad with zeal to explore technology
+>I'm a CSE undergrad with zeal to explore technology.
 
-- 🔭 I’m currently working on python
-- 🌱 I’m currently learning Machine learning and openCV
+- 🔭 I’m currently working in python
+- 🌱 I’m currently learning and passionate about Data science
 - 😄 Pronouns: She/her
 
